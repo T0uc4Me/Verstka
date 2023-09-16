@@ -1,0 +1,13 @@
+td {
+	width: 500px;
+	height: 300px;
+}
+td {
+	font-weight: bold;
+}
+td{
+	text-align: center;
+}
+th{
+	font-weight: normal;
+}
