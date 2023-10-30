@@ -1,0 +1,35 @@
+
+/* #block h1,#block h2,#block h3 {
+	text-align: center;
+}
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	font-size: 16px;
+	color: red;
+} */ 
+
+
+
+
+/* #block h1.eee,#block h2.zzz {
+	text-align: center;
+}
+#block h2.zzz {
+	font-size: 20px;
+}
+#block h1.eee{
+    font-size: 30px;
+} */
+
+/* .xxx .kkk,.eee h2.zzz,#eee h2{
+	text-align: center;
+}
+/*  
+/*
+.eee h2.zzz,.xxx {
+	text-align: center;
+} */
+
+

@@ -1,0 +1,29 @@
+/* 1 */
+[title] {
+    color: red;
+}
+
+/* 2     */
+p[title] {
+    color: red;
+}
+/* 3 */
+p[title = "hello"] {
+    color: red;
+}
+/* 4 */
+[href ^="http://"] {
+    color: red;
+}
+/* 5 */
+p[title*="hello"]{
+    color: red;
+}
+/* 6 */
+[href $=".html"] {
+    color: red;
+}
+/* 7 */
+p[class^="top-"]{
+    color:red
+}
